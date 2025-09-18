@@ -8,7 +8,7 @@
 <body>
     <h2> Welcome to page-2 </h2>
     <hr>
-    <p> shairu </p>
+    <p> jyothi</p>
     
 </body>
 </html>
